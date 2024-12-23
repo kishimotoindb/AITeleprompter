@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.teleprompter.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.teleprompter.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.teleprompter.app-merged_res-29:/layout_activity_edit_text.xml.flat",
+        "source": "com.example.teleprompter.app-main-31:/layout/activity_edit_text.xml"
+    }
+]

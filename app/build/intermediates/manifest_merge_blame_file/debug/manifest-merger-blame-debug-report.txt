@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.teleprompter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:5:5-71
+11-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:5:22-68
+12
+13    <permission
+13-->[androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.teleprompter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.teleprompter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:7:5-22:19
+20        android:allowBackup="true"
+20-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:label="AITeleprompter"
+24-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:9:9-39
+25        android:supportsRtl="true"
+25-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:10:9-35
+26        android:testOnly="true" >
+27        <activity
+27-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:12:9-18:20
+28            android:name="com.example.teleprompter.EditTextActivity"
+28-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:12:19-51
+29            android:exported="true" >
+29-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:13:13-36
+30            <intent-filter>
+30-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:14:13-17:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:15:17-69
+31-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:15:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:16:17-77
+33-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:16:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.teleprompter.MainActivity" />
+36-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:20:9-50
+36-->/Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:20:19-47
+37
+38        <provider
+38-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+39            android:name="androidx.startup.InitializationProvider"
+39-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+40            android:authorities="com.example.teleprompter.androidx-startup"
+40-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+41            android:exported="false" >
+41-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+42            <meta-data
+42-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+43-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+44                android:value="androidx.startup" />
+44-->[androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+45            <meta-data
+45-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+46-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+47                android:value="androidx.startup" />
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+48        </provider>
+49    </application>
+50
+51</manifest>

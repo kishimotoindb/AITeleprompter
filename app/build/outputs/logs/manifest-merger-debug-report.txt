@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/fealessbear/.gradle/caches/transforms-3/03b3eab9e03d6ec6025d7461a19da2b4/transformed/viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/fealessbear/.gradle/caches/transforms-3/199440f8ed47c1b13a84b18e7b1f70c3/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fealessbear/.gradle/caches/transforms-3/bbded77270786cddf812983c01c407cc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/fealessbear/.gradle/caches/transforms-3/2cee7e8ebd0dbf0766579dc3e3958d91/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/fealessbear/.gradle/caches/transforms-3/7214f5cfe83db7020a019115da860618/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/5392dce1383a5c9c0fb05e3d5d2de412/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/fealessbear/.gradle/caches/transforms-3/611027d4c9342650f2cfb9dfdfe59bf2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/fealessbear/.gradle/caches/transforms-3/91fd95d02fd3532f20d4f9c9cb5e2566/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/70220a116b14a0200daa7e860ff52a2d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/05d42c7192448e34d5ca8ed756795a4f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/3426f1d290d0eda77ad43dad7e163fb2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/612ac29c1dd56224498e64c380bafa47/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/5a02b6a3de1deef43ac51ae2c6630f7f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/bf806228f04b0c506e455a788bfeaba2/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/8af881b2bb7a6a37e8f53a4ebd1c7120/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/7c4403e8d13e36ff7a7424f5a985dee9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/e1e91750846de29c376727c9167814c2/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/0a95583a7fbc17a91df0e8fdc844942a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/7203aec62df5f94c9f684c92e16c1b3f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/2eede972b6832a3cc4a42c678ae08a03/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/1a92da9b4e70fe22dd56b0fa6a44c9d3/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/839b5a3e12ebb097864041e5662b6b99/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/de1debd2f1ff64ce14cbc25ebbe30a9c/transformed/core-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/e9216e45a56febc22cace74a65d19456/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/e1adc3eb1c55531892b7558ab2edb237/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/6f52bfd59a38e0b361d6cfb826a0871e/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/1a7435c701bcb7f38f0feb1180099398/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/e65ccefd5c6bab8be009166f1ca06962/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/322613ff014e9384302fd9dd69542731/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/2338f82b4e59b22060fb23861b3f133e/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fealessbear/.gradle/caches/transforms-3/4e58c0107664ca342d273823f50a9b60/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/738b45c5cbe019a68d3a47b9f5597d92/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fealessbear/.gradle/caches/transforms-3/4745584251005ce401f25b245e79945a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/3dedbe4b5c19d778ca76fa65415ff972/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/97c46569f27059721eca97d2221bef8b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/80c22a35743d0fde9c006192d66a45be/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/fealessbear/.gradle/caches/transforms-3/f9ab1af8a8f8729877bcd9eb332b4954/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:5:22-68
+application
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/fealessbear/.gradle/caches/transforms-3/199440f8ed47c1b13a84b18e7b1f70c3/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/fealessbear/.gradle/caches/transforms-3/199440f8ed47c1b13a84b18e7b1f70c3/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fealessbear/.gradle/caches/transforms-3/bbded77270786cddf812983c01c407cc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fealessbear/.gradle/caches/transforms-3/bbded77270786cddf812983c01c407cc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/322613ff014e9384302fd9dd69542731/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/322613ff014e9384302fd9dd69542731/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:9:9-39
+	android:allowBackup
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:8:9-35
+activity#com.example.teleprompter.EditTextActivity
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:exported
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:12:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.teleprompter.MainActivity
+ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/fealessbear/.gradle/caches/transforms-3/03b3eab9e03d6ec6025d7461a19da2b4/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/fealessbear/.gradle/caches/transforms-3/03b3eab9e03d6ec6025d7461a19da2b4/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.9.0] /Users/fealessbear/.gradle/caches/transforms-3/199440f8ed47c1b13a84b18e7b1f70c3/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/fealessbear/.gradle/caches/transforms-3/199440f8ed47c1b13a84b18e7b1f70c3/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fealessbear/.gradle/caches/transforms-3/bbded77270786cddf812983c01c407cc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/fealessbear/.gradle/caches/transforms-3/bbded77270786cddf812983c01c407cc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/fealessbear/.gradle/caches/transforms-3/2cee7e8ebd0dbf0766579dc3e3958d91/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/fealessbear/.gradle/caches/transforms-3/2cee7e8ebd0dbf0766579dc3e3958d91/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/fealessbear/.gradle/caches/transforms-3/7214f5cfe83db7020a019115da860618/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/fealessbear/.gradle/caches/transforms-3/7214f5cfe83db7020a019115da860618/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/5392dce1383a5c9c0fb05e3d5d2de412/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/5392dce1383a5c9c0fb05e3d5d2de412/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/fealessbear/.gradle/caches/transforms-3/611027d4c9342650f2cfb9dfdfe59bf2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/fealessbear/.gradle/caches/transforms-3/611027d4c9342650f2cfb9dfdfe59bf2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/fealessbear/.gradle/caches/transforms-3/91fd95d02fd3532f20d4f9c9cb5e2566/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/fealessbear/.gradle/caches/transforms-3/91fd95d02fd3532f20d4f9c9cb5e2566/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/70220a116b14a0200daa7e860ff52a2d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/70220a116b14a0200daa7e860ff52a2d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/05d42c7192448e34d5ca8ed756795a4f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/05d42c7192448e34d5ca8ed756795a4f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/3426f1d290d0eda77ad43dad7e163fb2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/3426f1d290d0eda77ad43dad7e163fb2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/612ac29c1dd56224498e64c380bafa47/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/612ac29c1dd56224498e64c380bafa47/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/5a02b6a3de1deef43ac51ae2c6630f7f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/5a02b6a3de1deef43ac51ae2c6630f7f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/bf806228f04b0c506e455a788bfeaba2/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/bf806228f04b0c506e455a788bfeaba2/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/8af881b2bb7a6a37e8f53a4ebd1c7120/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/8af881b2bb7a6a37e8f53a4ebd1c7120/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/7c4403e8d13e36ff7a7424f5a985dee9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/7c4403e8d13e36ff7a7424f5a985dee9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/e1e91750846de29c376727c9167814c2/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/e1e91750846de29c376727c9167814c2/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/0a95583a7fbc17a91df0e8fdc844942a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/0a95583a7fbc17a91df0e8fdc844942a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/7203aec62df5f94c9f684c92e16c1b3f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/7203aec62df5f94c9f684c92e16c1b3f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/2eede972b6832a3cc4a42c678ae08a03/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/2eede972b6832a3cc4a42c678ae08a03/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/1a92da9b4e70fe22dd56b0fa6a44c9d3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/1a92da9b4e70fe22dd56b0fa6a44c9d3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/839b5a3e12ebb097864041e5662b6b99/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/fealessbear/.gradle/caches/transforms-3/839b5a3e12ebb097864041e5662b6b99/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/de1debd2f1ff64ce14cbc25ebbe30a9c/transformed/core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/de1debd2f1ff64ce14cbc25ebbe30a9c/transformed/core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/e9216e45a56febc22cace74a65d19456/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/e9216e45a56febc22cace74a65d19456/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/e1adc3eb1c55531892b7558ab2edb237/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/e1adc3eb1c55531892b7558ab2edb237/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/6f52bfd59a38e0b361d6cfb826a0871e/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/6f52bfd59a38e0b361d6cfb826a0871e/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/1a7435c701bcb7f38f0feb1180099398/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/1a7435c701bcb7f38f0feb1180099398/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/e65ccefd5c6bab8be009166f1ca06962/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/e65ccefd5c6bab8be009166f1ca06962/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/322613ff014e9384302fd9dd69542731/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/322613ff014e9384302fd9dd69542731/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/2338f82b4e59b22060fb23861b3f133e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/2338f82b4e59b22060fb23861b3f133e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fealessbear/.gradle/caches/transforms-3/4e58c0107664ca342d273823f50a9b60/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fealessbear/.gradle/caches/transforms-3/4e58c0107664ca342d273823f50a9b60/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/738b45c5cbe019a68d3a47b9f5597d92/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/fealessbear/.gradle/caches/transforms-3/738b45c5cbe019a68d3a47b9f5597d92/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fealessbear/.gradle/caches/transforms-3/4745584251005ce401f25b245e79945a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fealessbear/.gradle/caches/transforms-3/4745584251005ce401f25b245e79945a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/3dedbe4b5c19d778ca76fa65415ff972/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/3dedbe4b5c19d778ca76fa65415ff972/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/97c46569f27059721eca97d2221bef8b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/97c46569f27059721eca97d2221bef8b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/80c22a35743d0fde9c006192d66a45be/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/fealessbear/.gradle/caches/transforms-3/80c22a35743d0fde9c006192d66a45be/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/fealessbear/.gradle/caches/transforms-3/f9ab1af8a8f8729877bcd9eb332b4954/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/fealessbear/.gradle/caches/transforms-3/f9ab1af8a8f8729877bcd9eb332b4954/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fealessbear/work/AITeleprompter/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fealessbear/.gradle/caches/transforms-3/4baa6d981814b86663bd7a32bdfcdb0d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/fealessbear/.gradle/caches/transforms-3/a7224119a7b55ced6e8169b991dafbaa/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+permission#com.example.teleprompter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.teleprompter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/fealessbear/.gradle/caches/transforms-3/e0f0700f8763d8b418d9bba4280aa64a/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/fealessbear/.gradle/caches/transforms-3/71376559c52e196847d2a52250f348b2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

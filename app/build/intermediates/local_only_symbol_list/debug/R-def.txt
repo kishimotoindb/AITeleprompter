@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+id aiStartButton
+id clearButton
+id controlPanel
+id normalStartButton
+id pasteButton
+id promptEditText
+id promptText
+id recognizedText
+id scrollView
+id settingsPanel
+id speedDownButton
+id speedText
+id speedUpButton
+id startPrompterButton
+layout activity_edit_text
+layout activity_main
